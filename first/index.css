@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #4f4f4f;
+  height: 20vh;
+  width: 100vw;
+  /* float: left; */
+}
+
+.sides {
+  background: #e0e0e0;
+  height: 80vh;
+  width: 10vw;
+  float: left;
+}
+
+#right {
+   float: right; 
+}
+
+
+
+#middle {
+  height: 65vh;
+  width: 80vw;
+  float: left;
+}
+
+footer {
+  background: black;
+  height: 10vh;
+  width: 80vw;
+  margin: 70vh auto 0 auto;
+}

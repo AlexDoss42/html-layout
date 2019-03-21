@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+}
+
+.containers {
+  margin: 10px;
+}
+
+#shapes {
+  border: 5px solid black;
+  height: 25vh;
+  width: 96vw;
+}
+
+#purp {
+  height: 100px;
+  width: 45px;
+  background-color: blueviolet;
+  float: left;
+  margin: 50px 10px 10px 10px;
+}
+
+#green {
+  height: 140px;
+  width: 500px;
+  background: forestgreen;
+  float: left;
+  margin: 10px 30px 10px 30px;
+}
+
+#circle {
+  height: 140px;
+  width: 140px;
+  background: skyblue;
+  float: left;
+  border-radius: 1000px;
+  margin: 10px 30px 10px 30px;
+}
+
+#dotted {
+    border: 5px dotted black;
+    height: 25vh;
+    width: 96vw;
+}
+
+#mustard {
+  height: 110px;
+  width: 84vw;
+  background: lemonchiffon;
+  float: left;
+  margin: 25px 6vw;
+  box-shadow: 8px 8px 5px black;
+}
+
+#hello {
+  border: 1px solid grey;
+  height: 40vh;
+  width: 40vw;
+  color: navy;
+  font-size: 32px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 20px auto 40px auto;
+  padding-top: 100px;
+  letter-spacing: 12px;
+  box-shadow: 2px 2px 2px #c0c0c0;
+}
